@@ -1,6 +1,6 @@
 include 'emu8086.inc'
 .model small 
-.stack 100h           ;100h address  where Stack pointer start from 
+.stack 100h          ;100h address  where Stack pointer start from 
 .data 
 
 .code 
